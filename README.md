@@ -71,9 +71,3 @@ This does not imply zero infrastructure cost; local CPU, memory, storage, and el
                          ▼
                  Recall@3 Evaluation
 ```
-
-### Key Learning
-
-The main takeaway from this benchmark was not simply which vector store returned the fastest number. The important part was designing a controlled experiment where the **corpus, chunking strategy, embedding model, queries, and top-K remained constant**, while the vector-store implementation was changed.
-
-This makes the comparison reproducible and provides a foundation for evaluating vector search systems at larger scale.
