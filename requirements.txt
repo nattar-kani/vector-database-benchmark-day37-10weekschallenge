@@ -1,0 +1,11 @@
+pymupdf
+pdfplumber
+python-docx
+beautifulsoup4
+pandas
+sentence-transformers
+langchain-text-splitters
+pytest
+faiss-cpu
+chromadb
+qdrant-client

@@ -1,0 +1,4 @@
+store,chunk_count,ingestion_time,avg_query_latency,recall_at_3,cost
+faiss,2,0.000125,0.029993,1.0,$0 external
+chroma,2,0.717938,0.019502,1.0,$0 external
+qdrant,2,0.175511,0.077038,1.0,$0 external
